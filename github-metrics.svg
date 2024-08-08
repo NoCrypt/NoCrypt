@@ -775,7 +775,7 @@ Whatever your order is, leave it all up to us♪
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.22m out of 216m repositories</span>
+                                    <span class="gh">ranked 1.22m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 9 times</div>
                             </div>
@@ -854,7 +854,7 @@ Whatever your order is, leave it all up to us♪
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 854k out of 216m repositories</span>
+                                    <span class="gh">ranked 854k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -1048,7 +1048,7 @@ Whatever your order is, leave it all up to us♪
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2024, 16:59:58 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2024, 17:00:14 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
