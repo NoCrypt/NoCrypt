@@ -1,1 +1,3 @@
-[![My GitFut card](https://gitfut.com/NoCrypt.png)](https://gitfut.com/NoCrypt)
+<p align="center">
+  <img src="https://gitfut.com/NoCrypt.png" width="350">
+</p>
