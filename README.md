@@ -1,0 +1,1 @@
+[![My GitFut card](https://gitfut.com/NoCrypt.png)](https://gitfut.com/NoCrypt)
